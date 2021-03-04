@@ -1,0 +1,13 @@
+{
+  "name": "channel-experiment",
+  "description": "",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "phoenix": "^1.5.7",
+    "websocket": "^1.0.33"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
